@@ -1,4 +1,4 @@
-This is a basic Kafka project showing how to run a Kafka cluster udsing Docker.
+This is a basic Kafka project showing how to run a Kafka cluster using Docker.
 
 It serves as a base for other project under the Kafka branch. It's solely used for my personal learning and interest.
 
@@ -32,3 +32,6 @@ docker-compose down
 ### Accessing the cluster
 
 Use offset explorer to access the cluster and work with messages and topics
+
+
+https://www.kafkatool.com/download.html
