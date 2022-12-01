@@ -15,7 +15,7 @@ docker-compose up -d
 
 ```
 
-this will run the cluser as a demon. If it's the first time, docker-compose will build the different parts of the cluster.
+this will run the cluster as a demon. If it's the first time, docker-compose will build the different parts of the cluster.
 
 When the cluser is running it can be accessed on the ports assigned in the docker compose file.
 
